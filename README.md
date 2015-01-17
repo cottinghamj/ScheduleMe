@@ -1,0 +1,1 @@
+This will be my attempt at making the best schedule app on the market. My target will be mostly college age students who often struggle with procrastinating, not doing their assignments in the right order or just not having enough motivation to knock out important and necessary tasks.
