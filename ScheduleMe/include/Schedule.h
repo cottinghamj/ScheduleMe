@@ -9,6 +9,6 @@ class Schedule
         virtual ~Schedule();
     protected:
     private:
-};
+ };
 
 #endif // SCHEDULE_H

@@ -2,3 +2,13 @@
 1421740632 source:c:\users\jarian\documents\github\scheduleme\scheduleme\main.cpp
 	<iostream>
 
+1421781592 source:c:\users\jarian\documents\github\scheduleme\scheduleme\src\event.cpp
+	"Event.h"
+
+1421781592 c:\users\jarian\documents\github\scheduleme\scheduleme\include\event.h
+
+1421781563 source:c:\users\jarian\documents\github\scheduleme\scheduleme\src\schedule.cpp
+	"Schedule.h"
+
+1421784230 c:\users\jarian\documents\github\scheduleme\scheduleme\include\schedule.h
+
