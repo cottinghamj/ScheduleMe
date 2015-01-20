@@ -62,15 +62,17 @@ int prompt(){
 
 void processFromMain(int menuChoice){
     switch(menuChoice){
-    case 1:
+    case 1:{
         ScheduleContainers container;
-        break;
-    case 2:
-        break;
-    case 3:
-        break;
+        break;}
+    case 2:{
+
+        break;}
+    case 3:{
+
+        break;}
     default:
-        "Awk! You didn't give me a number from the list...shutting down now";
+        cout << "Awk! You didn't give me a number from the list...shutting down now";
         break;  //  Need to do something to catch the user not putting in a
                 //  good number
     }
