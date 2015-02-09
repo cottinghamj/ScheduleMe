@@ -7,7 +7,7 @@
 
 class ScheduleContainers
 {
-    std::vector allSchedules<Schedule>;
+    std::vector<Schedule> allSchedules;
 
     public:
         ScheduleContainers();
